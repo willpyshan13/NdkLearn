@@ -1,6 +1,5 @@
 #include <jni.h>
 #include <string>
-
 extern "C" JNIEXPORT jstring JNICALL
 Java_com_will_ndklearn_MainActivity_stringFromJNI(
         JNIEnv *env,
